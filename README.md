@@ -100,4 +100,3 @@ Enjoy playing the virtual piano with Pianika!
 
 ---
 
-Feel free to customize the sections, such as the repository URL, contact details, or license information, as needed.
