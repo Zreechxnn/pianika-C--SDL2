@@ -1,7 +1,7 @@
 # pianika-c-SDL2
 
 **Pianika** is a simple application that lets you play virtual piano keys using your keyboard. This application is built using SDL2, SDL_ttf, and SDL_mixer, and supports various instrument sounds that can be played with keyboard keys.
-[[image]](https://e.top4top.io/p_3162jdg750.jpg)
+![image](https://e.top4top.io/p_3162jdg750.jpg)
 
 ## Features
 
