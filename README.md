@@ -42,7 +42,7 @@ To get started with Pianika, follow these steps:
 3. **Build the Project**
 
    ```bash
-   g++ -o pianika main.cpp -lSDL2 -lSDL2_mixer -lSDL2_ttf
+   g++ -o pianika pianika.cpp -lSDL2 -lSDL2_mixer -lSDL2_ttf
    ```
 
 4. **Run the Application**
