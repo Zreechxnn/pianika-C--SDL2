@@ -26,7 +26,7 @@ To get started with Pianika, follow these steps:
 
    ```bash
    git clone https://github.com/Zreechxnn/pianika-c-SDL2.git
-   cd pianika
+   cd pianika-c-SDL2
    ```
 
 2. **Install Dependencies**
