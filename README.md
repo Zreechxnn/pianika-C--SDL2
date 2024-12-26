@@ -3,6 +3,14 @@
 **Pianika** is a simple application that lets you play virtual piano keys using your keyboard. This application is built using SDL2, SDL_ttf, and SDL_mixer, and supports various instrument sounds that can be played with keyboard keys.
 ![image](https://e.top4top.io/p_3162jdg750.jpg)
 
+## ⚠️ Disclaimer  
+
+The code in this repository is intended **only for developers** with a basic understanding of programming. Please use it responsibly and for development purposes only.
+
+- **Not recommended for direct use in production environments without thorough testing.**  
+- No guarantees are provided regarding the absence of bugs or errors.  
+- The author is not liable for any damages or issues caused
+
 ## Features
 
 - **Virtual Piano Keys:** Play piano keys using the keyboard buttons `A`, `S`, `D`, `F`, `G`, `H`, `J`, `K`, `L`, `M`.
