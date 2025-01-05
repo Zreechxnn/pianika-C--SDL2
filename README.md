@@ -108,3 +108,4 @@ Enjoy playing the virtual piano with Pianika!
 
 ---
 
+<p align="center">©️ 2024 Rechan Dinata</p>
